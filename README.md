@@ -1,6 +1,6 @@
 # 🛍️ Product Showcase App
 
-A simple product showcase web app built with **Next.js** using the **Pages Router**. It fetches and displays products from the [Fake Store API](https://fakestoreapi.com/), showing product lists and detailed information for each product.
+A simple product showcase web app built with **Next.js**. It fetches and displays products from the [Fake Store API](https://fakestoreapi.com/), showing product lists and detailed information for each product.
 
 ---
 
