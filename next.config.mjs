@@ -1,6 +1,6 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
+// next.config.mjs
+export default {
+  images: {
+    domains: ['fakestoreapi.com'],
+  },
 };
-
-export default nextConfig;
